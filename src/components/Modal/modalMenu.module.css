@@ -1,0 +1,46 @@
+.modalbg {
+    background-color: rgba(222,155,240,1) !important;
+}
+
+.modalBody {
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.modalHeader > button {
+    background: transparent url('../../assets/icon/close.png');
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    padding: 4px !important;
+}
+.cardGroup {
+    width: 100%;
+    height: 100%;
+}
+.card {
+    display: flex;
+    align-items: center;
+    background-color: transparent !important;
+    border: none !important;
+    cursor: pointer;
+    height: 100%;
+}
+.cardBody {
+    color: white;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+.card:hover {
+    background-color: rgb(208, 105, 237) !important;
+   
+}
+
+.a {
+    all: unset;
+    width: 33%;
+}
