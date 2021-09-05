@@ -1,0 +1,13 @@
+.icon {
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+.navbar {
+    background: linear-gradient(90deg, rgba(222,155,240,1) 0%, rgba(203,116,227,1) 40%, rgba(220,90,255,1) 100%);
+}
+
+.modal {
+    background-color: #de9bf0;
+}
